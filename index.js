@@ -1,5 +1,5 @@
 // BACKEND
-const express = require('Express');
+const express = require('express');
 const { createServer } = require('http');
 const { join } = require('path');
 const { Server } = require('socket.io');
